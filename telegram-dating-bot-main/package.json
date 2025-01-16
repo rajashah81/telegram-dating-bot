@@ -9,6 +9,9 @@
   },
   "author": "Jason Kings",
   "license": "ISC",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "chalk": "^5.3.0",
     "mongoose": "^7.4.2",
